@@ -12,8 +12,8 @@ How to run our code
    5.	If using Anaconda each line can be executed by pressing shift+enter. The results will be displayed after the code is executed.
    6.	Start executing the code from the very first line.
    7.	Follow the following order of files in an order to verify our results:
-                          a.	RestaurantDataset.ipynb
-                          b.	Categories.ipynb
-                          c.	Relation_Extraction.ipynb
-                          d.	CFcompare.ipynb
+                          ->	RestaurantDataset.ipynb
+                          ->	Categories.ipynb
+                          ->	Relation_Extraction.ipynb
+                          ->	CFcompare.ipynb
 
