@@ -1,6 +1,6 @@
 # eCommerce
-eCommerce final project
-We made use of Yelp dataset. 
+Data Analysis and a Comparison of Collaborative Filtering Techniques on Toronto based Restaurant Data using Machine Learning.
+Made use of Yelp dataset. 
 Link for the dataset: https://www.kaggle.com/yelp-dataset/yelp-dataset
 
 How to run our code
